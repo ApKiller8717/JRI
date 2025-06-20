@@ -1,0 +1,879 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "0.5 HP Pressure Blower",
+      "category": "Blowers",
+      "breadcrumb": "0.5 HP Pressure Blower",
+      "mainImage": "assets/images/Products/0.5 hp pressure blower.jpg",
+      "galleryImages": [
+        "assets/images/logo/industrial_1.webp",
+        "assets/images/logo/industrial_1.webp"
+      ],
+      "description": "High-performance mild steel centrifugal blower designed for industrial applications. Features robust construction and efficient air flow technology.",
+      "specifications": {
+        "POWER": "0.5-3 HP",
+        "VOLTAGE": "440V",
+        "FAN SPEED": "2000-3000 RPM",
+        "PRESSURE": "HIGH PRESSURE",
+        "FREQUENCY": "5O HZ",
+        "SPEED": "28000 RPM"
+      },
+      "features": [
+        "Robust mild steel construction",
+        "Energy efficient operation",
+        "Low maintenance design",
+        "Customizable specifications",
+        "Easy installation and maintenance"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "2800 RPM Suction Blower",
+      "category": "Blowers",
+      "breadcrumb": "2800 RPM Suction Blower",
+      "mainImage": "assets/images/Products/2800 rpm suction blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/2800 rpm suction blower.jpg",
+        "assets/images/Products/2800 rpm suction blower.jpg"
+      ],
+      "description": "Heavy-duty industrial blower engineered for demanding applications. Built with premium materials for maximum durability and performance.",
+      "specifications": {
+        "MATERIAL": "STAINLESS STEEL",
+        "USAGE": "INDUSTRIAL",
+        "BRAND": "JRI",
+        "STRUCTURE TYPE": "SINGLE",
+        "COUNTRY OF ORIGIN": "MADE IN INDIA"
+      },
+      "features": [
+        "Heavy-duty construction",
+        "High air flow capacity",
+        "Corrosion resistant materials",
+        "Advanced motor protection",
+        "Industrial-grade components"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Alluminium Rotar",
+      "category": "Blowers",
+      "breadcrumb": "Alluminium Rotar",
+      "mainImage": "assets/images/Products/Alluminium Rotar.jpg",
+      "galleryImages": [
+        "assets/images/Products/Alluminium Rotar.jpg",
+        "assets/images/Products/Alluminium Rotar.jpg"
+      ],
+      "description": "Specialized heater box industrial blower designed for heating and ventilation systems. Optimized for efficient heat distribution.",
+      "specifications": {
+        "BRAND": "JRI",
+        "MATERIAL": "MS AND ALUMINIUM both",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "STRUCTURE TYPE": "SINGLE",
+        "IMPELLERS TYPE": "SINGLE-SUCTION",
+        "COUNTRY OF ORIGIN": "MADE IN INDIA"
+      },
+      "features": [
+        "Heat-resistant construction",
+        "Optimized for heating systems",
+        "Efficient heat distribution",
+        "Thermal protection system",
+        "Easy maintenance access"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Bouncy Jumping Blower",
+      "category": "Blowers",
+      "breadcrumb": "Bonsi Jumping Blower",
+      "mainImage": "assets/images/Products/Bonsi jumping blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Bonsi jumping blower.jpg",
+        "assets/images/Products/Bonsi jumping blower.jpg"
+      ],
+      "description": "Advanced Venturi air blower utilizing the Venturi effect for efficient air movement. Ideal for applications requiring precise air flow control.",
+      "specifications": {
+        "MATERIAL": "INJECTION MOULDED HIGH IMPACT ABS",
+        "MAXIMUM RUNNING CURRENT": "7.3A (230V)",
+        "RATED OUTPUT": "1.1KW 1.5HP",
+        "SPEED": "2800 - 3260 RPM",
+        "WEIGHT": "15.4KG / 33LBS",
+        "BRAND": "JRI"
+      },
+      "features": [
+        "Venturi effect technology",
+        "Precise air flow control",
+        "Compact design",
+        "Low noise operation",
+        "Energy efficient"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Bounce ( jumping ) blower",
+      "category": "Blowers",
+      "breadcrumb": "Bounce ( jumping ) blower",
+      "mainImage": "images/Products/Bounce ( jumping ) blower.jpg",
+      "galleryImages": [
+        "images/Products/Bounce ( jumping ) blower.jpg",
+        "images/Products/Bounce ( jumping ) blower.jpg"
+      ],
+      "description": "High-performance axial air blower designed for maximum air movement with minimal power consumption. Perfect for ventilation and cooling applications.",
+      "specifications": {
+        "MATERIAL": "POWDER COATED STEEL SHEET",
+        "ENGINE TYPE": "BRIGGS AND STRATTON 750 SERIES",
+        "RATED OUTPUT": "4KW 5.5HP",
+        "SPEED": "3600 RPM",
+        "FUEL CAPACITY": "3.1 LITRES",
+        "SHIPPING DIMENSIONS": "60 X 48 X 56CM / 23.6” X 18.9” X 22”"
+      },
+      "features": [
+        "High air flow efficiency",
+        "Low power consumption",
+        "Balanced blade design",
+        "Multiple mounting options",
+        "Easy maintenance"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Century Blower",
+      "category": "Blowers",
+      "breadcrumb": "Century Blower",
+      "mainImage": "assets/images/Products/Century blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Century blower.jpg",
+        "assets/images/Products/Century blower.jpg"
+      ],
+      "description": "Specialized bounce blower designed for unique applications requiring oscillating air flow. Features innovative design for maximum coverage.",
+      "specifications": {
+        "SPEED": "1075 RPM",
+        "VOLTAGE": "115 VOLTS",
+        "HORSEPOWER": "0.33 HP",
+        "BRAND": "JRI"
+      },
+      "features": [
+        "Oscillating air flow",
+        "Wide coverage area",
+        "Compact design",
+        "Energy efficient",
+        "Easy to operate"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Cooling Blower",
+      "category": "Exhaust Systems",
+      "breadcrumb": "Cooling Blower",
+      "mainImage": "assets/images/Products/Cooling blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Cooling blower.jpg",
+        "assets/images/Products/Cooling blower.jpg"
+      ],
+      "description": "Professional-grade kitchen exhaust system designed for hotels and commercial kitchens. Features efficient smoke and odor removal.",
+      "specifications": {
+        "BLOWER TYPE": "CENTRIFUGAL BLOWER",
+        "PRESSURE": "HIGH PRESSURE",
+        "RPM": "500-1000 RPM",
+        "COLOR": "ANY",
+        "POWER SOURCE": "ELECTRIC BLOWER",
+        "PRODUCT TYPE": "AIR BLOWER"
+      },
+      "features": [
+        "Commercial-grade construction",
+        "Efficient smoke removal",
+        "Grease filtration system",
+        "Easy to clean",
+        "Customizable design"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Coupler Exhaust blower",
+      "category": "Specialty Blowers",
+      "breadcrumb": "Coupler Exhaust blower",
+      "mainImage": "assets/images/Products/Coupler Exhaust blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Coupler Exhaust blower.jpg",
+        "assets/images/Products/Coupler Exhaust blower.jpg"
+      ],
+      "description": "Specialized blower machine designed for flower drying and processing applications. Features gentle air flow for delicate materials.",
+      "specifications": {
+        "BLOWER TYPE": "CENTRIFUGAL",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "MATERIAL": "STAINLESS STEEL",
+        "PRESSURE": "LOW PRESSURE",
+        "PHASE": "3 PHASE",
+        "POWER SOURCE": "ELECTRIC BLOWER",
+        "ELECTRIC CURRENT TYPE": "AC"
+      },
+      "features": [
+        "Gentle air flow",
+        "Temperature control",
+        "Compact design",
+        "Easy to operate",
+        "Low maintenance"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Cyclone",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Cyclone",
+      "mainImage": "assets/images/Products/Cyclone.jpg",
+      "galleryImages": [
+        "assets/images/Products/Cyclone.jpg",
+        "assets/images/Products/Cyclone.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "DUST COLLECTOR TYPE": "SINGLE STAGE",
+        "MATERIAL": "MILD STEEL",
+        "AIRFLOW (M3/H OR CFM)": "4000 CFM",
+        "BAG CAPACITY": "160 LITRE",
+        "POWER (HP / KW) ": "2 HP",
+        "USAGE": "FLOUR DUST",
+        "WARRANTY": "12 MONTHS",
+        "VOLTAGE (V)": "240 V",
+        "FREQUENCY (HZ)": "50 HZ",
+        "HEIGHT": "3 FEET"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Double Inlet Impeller",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Double Inlet Impeller",
+      "mainImage": "assets/images/Products/Double inlet impeller.jpg",
+      "galleryImages": [
+        "assets/images/Products/Double inlet impeller.jpg",
+        "assets/images/Products/Double inlet impeller.jpg"
+      ],
+      "description": "Powerful induced draft blower designed for industrial applications requiring negative air pressure. Perfect for exhaust and ventilation systems.",
+      "specifications": {
+        "DIAMETER": "12 MM",
+        "MATERIAL": "ALUMINIUM",
+        "TYPE": "DOUBLE INLET IMPELLER"
+      },
+      "features": [
+        "High negative pressure",
+        "Industrial-grade construction",
+        "High temperature operation",
+        "Heavy-duty design",
+        "Advanced motor protection"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Double Inlet V- belt Drive Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Double Inlet V- belt Drive Blower",
+      "mainImage": "assets/images/Products/Double inlet v- belt drive blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Double inlet v- belt drive blower.jpg",
+        "assets/images/Products/Double inlet v- belt drive blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "BLOWER TYPE": "AIR BLOWER",
+        "STAGES": "SINGLE STAGE",
+        "POWER": "0.37 KW",
+        "RPM": "2500-3000 RPM",
+        "MATERIAL": "ALUMINUM",
+        "VOLTAGE": "230"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "12",
+      "title": "Dust Collectors With Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Dust Collectors With Blower",
+      "mainImage": "assets/images/Products/Dust collectors with blowrr.jpg",
+      "galleryImages": [
+        "assets/images/Products/Dust collectors with blowrr.jpg",
+        "assets/images/Products/Dust collectors with blowrr.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "BRAND": "JRI",
+        "COLOUR": "MULTI",
+        "POWER SOURCE": "CORD",
+        "VOLTAGE": "230 VOLTS",
+        "FORM FACTOR": "HANDHELD",
+        "ITEM WEIGHT": "1 KILOGRAMS"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "13",
+      "title": "Excel Fan",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Excel Fan",
+      "mainImage": "assets/images/Products/Excel fan.jpg",
+      "galleryImages": [
+        "assets/images/Products/Excel fan.jpg",
+        "assets/images/Products/Excel fan.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "ADDITIONAL BUSINESS": "FACTORY / MANUFACTURING",
+        "Annual Turnover": "0 - 40 L",
+        "BRAND": "JRI"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "14",
+      "title": "Excel Flow Fan",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Excel Flow Fan",
+      "mainImage": "assets/images/Products/Excel flow fan.jpg",
+      "galleryImages": [
+        "assets/images/Products/Excel flow fan.jpg",
+        "assets/images/Products/Excel flow fan.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "BLADE SIZE": "24 INCH",
+        "MATERIAL": "MILD STEEL",
+        "BRAND": "JRI",
+        "FAN TYPE": "HEAVY DUTY FAN",
+        "PHASE": "SINGLE PHASE",
+        "USAGE/APPLICATION": "INDUSTRIAL"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "15",
+      "title": "Exhaust Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Exhaust Blower",
+      "mainImage": "assets/images/Products/Exhaust blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Exhaust blower.jpg",
+        "assets/images/Products/Exhaust blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "PRESSURE ": "HIGH AND LOW PRESSURE",
+        "POWER SOURCE": "ELECTRIC BLOWER",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "BLADE MATERIAL": "MS",
+        "ELECTRIC CURRENT TYPE": "AC",
+        "COUNTRY OF ORIGIN": "MADE IN INDIA"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "16",
+      "title": "Exhaust Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Exhaust Blower",
+      "mainImage": "assets/images/Products/Exhaust blower1.jpg",
+      "galleryImages": [
+        "assets/images/Products/Exhaust blower1.jpg",
+        "assets/images/Products/Exhaust blower1.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "PRESSURE ": "HIGH AND LOW PRESSURE",
+        "POWER SOURCE": "ELECTRIC BLOWER",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "BLADE MATERIAL": "MS",
+        "ELECTRIC CURRENT TYPE": "AC",
+        "COUNTRY OF ORIGIN": "MADE IN INDIA"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "17",
+      "title": "Flower Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Flower Blower",
+      "mainImage": "assets/images/Products/Flower blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Flower blower.jpg",
+        "assets/images/Products/Flower blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "PRESSURE": "LOW PRESSURE",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "ELECTRIC CURRENT TYPE": "AC",
+        "BLADE MATERIAL": "MILD STEEL",
+        "TYPE": "DUCT MOUNTED FAN",
+        "MOUNTING": "DUCT FAN",
+        "PRODUCT TYPE": "DUCT MOUNTED FAN",
+        "COUNTRY OF ORIGIN": "MADE IN INDIA"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "18",
+      "title": "FRP Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "FRP Blower",
+      "mainImage": "assets/images/Products/FRP blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/FRP blower.jpg",
+        "assets/images/Products/FRP blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "POWER SOURCE": "ELECTRIC BLOWER",
+        "BLOWER TYPE": "CENTRIFUGAL BLOWER",
+        "VOLTAGE (V)": "310",
+        "PHASE": "ONE",
+        "FREQUENCY (HZ)": "50",
+        "MATERIAL": "FRP"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "19",
+      "title": "Heater Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Heater Blower",
+      "mainImage": "assets/images/Products/Heater blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Heater blower.jpg",
+        "assets/images/Products/Heater blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "WATTAGE": "1800 W",
+        "HEATING ELEMENT MATERIAL": "COPPER",
+        "TYPE": "ELECTRIC ROOM HEATER",
+        "SPEED CONTROL SYSTEM": "YES",
+        "NUMBER OF HEAT SETTINGS/HEAT MODES": "3",
+        "THERMOSTAT": "YES"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "20",
+      "title": "Heater Box With Blower ( Hot Air Blower)",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Heater Box With Blower ( Hot Air Blower)",
+      "mainImage": "assets/images/Products/Heater box with blower ( hot air blower).jpg",
+      "galleryImages": [
+        "assets/images/Products/Heater box with blower ( hot air blower).jpg",
+        "assets/images/Products/Heater box with blower ( hot air blower).jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "AIR VOLUME": "100 CFM",
+        "BODY MATERIAL": "MILD STEEL",
+        "POWER CONSUMPTION": "1 KW TO 3 KW",
+        "TEMPERATURE RANGE": "30 DEGREE CELSIUS",
+        "WARRANTY": "1 YEAR",
+        "PRESSURE": "UNPRESSURIZED"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "21",
+      "title": "Hot Air Blower With Temperature Penal",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Hot Air Blower With Temperature Penal",
+      "mainImage": "assets/images/Products/Hot air blower with Temperature penal.jpg",
+      "galleryImages": [
+        "assets/images/Products/Hot air blower with Temperature penal.jpg",
+        "assets/images/Products/Hot air blower with Temperature penal.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "TEMPERATURE RANGE": "50-150 DEGREE CELSIUS",
+        "MATERIAL": "MILD STEEL",
+        "AIR CIRCULATION": "MOTORIZED RECIRCULATION",
+        "NO OF CHAMBER": "ONE",
+        "CHAMBER VOLUME": "100 LITRE",
+        "WARRANTY": "1 YEAR"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "22",
+      "title": "Impeller",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Impeller",
+      "mainImage": "assets/images/Products/Impeller.jpg",
+      "galleryImages": [
+        "assets/images/Products/Impeller.jpg",
+        "assets/images/Products/Impeller.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "BRAND": "JRI",
+        "MATERIAL": "MS SHEET",
+        "USAGE/APPLICATION": "EXHAUST",
+        "CLOSING TYPE": "CLOSED AND OPEN",
+        "STRUCTURE TYPE": "SINGLE",
+        "IMPELLER BLADE TYPE": "FORWARD-CURVED",
+        "IMPELLERS TYPE": "SINGLE-SUCTION"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "23",
+      "title": "Industal Adjustable Cooling Fan",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Industal Adjustable Cooling Fan",
+      "mainImage": "assets/images/Products/industal  adjustable cooling  fan.jpg",
+      "galleryImages": [
+        "assets/images/Products/industal  adjustable cooling  fan.jpg",
+        "assets/images/Products/industal  adjustable cooling  fan.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "POWER": "2.5 KW",
+        "MOUNTING": "DUCT MOUNTED FAN",
+        "MATERIAL": "CAST IRON",
+        "BRAND": "JRI",
+        "FREQUENCY": "50 HZ",
+        "PHASE": "3 PHASE"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "24",
+      "title": "M Type Heater",
+      "category": "Industrial Blowers",
+      "breadcrumb": "M Type Heater",
+      "mainImage": "assets/images/Products/M Type Heater.jpg",
+      "galleryImages": [
+        "assets/images/Products/Cyclone.jpg",
+        "assets/images/Products/Cyclone.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "POWER": "CUSTOMIZE",
+        "SIZE": "CUSTOMIZE",
+        "BRAND": "ANTIQUE HEATING ELEMENTS",
+        "VOLTAGE(VOLT)": "CUSTOMIZE",
+        "I DEAL IN": "NEW ONLY",
+        "COUNTRY OF ORIGIN": "MADE IN INDIA"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "25",
+      "title": "Material Suction Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Material Suction Blower",
+      "mainImage": "assets/images/Products/Material suction blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Material suction blower.jpg",
+        "assets/images/Products/Material suction blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "BODY MATERIAL": "MS",
+        "PRESSURE": "HIGH PRESSURE",
+        "POWER SOURCE": "ELECTRIC BLOWER",
+        "BLADE MATERIAL": "MS",
+        "AUTOMATION GRADE": "SEMI-AUTOMATIC",
+        "COLOR": "ANY"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "26",
+      "title": "Material Supply Hopper Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Material Supply Hopper Blower",
+      "mainImage": "assets/images/Products/Material supply hopper blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Material supply hopper blower.jpg",
+        "assets/images/Products/Material supply hopper blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "VOLTAGE": "400 VOLTS",
+        "AUTOMATION GRADE": "NONE",
+        "DESIGN": "NONE",
+        "MAXIMUM TEMPERATURE": "120 DEGREE C",
+        "PHASE": "NONE",
+        "POWER": "5000 WATTS",
+        "PRODUCT CAPACITY": "500 NONE"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "27",
+      "title": "PP Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "PP Blower",
+      "mainImage": "assets/images/Products/Pp blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Pp blower.jpg",
+        "assets/images/Products/Pp blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "PRODUCT TYPE": "PP CENTRIFUGAL BLOWER",
+        "MATERIAL": "PP",
+        "PRESSURE": "HIGH PRESSURE",
+        "APPLICATION": "INDUSTRIAL",
+        "POWER SOURCE": "ELECTRIC BLOWER",
+        "WARRANTY ": "1 YEAR"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "28",
+      "title": "Pressure Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Pressure Blower",
+      "mainImage": "assets/images/Products/Pressure blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Pressure blower.jpg",
+        "assets/images/Products/Pressure blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "PRESSURE": "HIGH PRESSURE",
+        "BLOWER TYPE": "CENTRIFUGAL BLOWER",
+        "MATERIAL": "MILD STEEL",
+        "BRAND": "JRI",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "POWER SOURCE": "PNEUMATIC, MANUAL BLOWER, ELECTRIC BLOWER",
+        "PRODUCT TYPE": "AIR BLOWER"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "29",
+      "title": "Pressure Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Pressure Blower",
+      "mainImage": "assets/images/Products/Pressure blower1.jpg",
+      "galleryImages": [
+        "assets/images/Products/Pressure blower1.jpg",
+        "assets/images/Products/Pressure blower1.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "BLOWER TYPE": "CENTRIFUGAL",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "POWER": "0.5 HP TO 500 HP",
+        "FAN TYPE": "CENTRIFUGAL",
+        "PRESSURE": "MEDIUM PRESSURE",
+        "PHASE": "3 PHASE OR 1 PHASE"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "30",
+      "title": "Printing Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "Printing Blower",
+      "mainImage": "assets/images/Products/Printing blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Printing blower.jpg",
+        "assets/images/Products/Printing blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "BLOWER TYPE": "CENTRIFUGAL",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "PRESSURE": "HIGH PRESSURE",
+        "PHASE": "SINGLE & THREE PHASE",
+        "MODEL NAME/NUMBER": "EXCB",
+        "POWER SOURCE": "ELECTRIC BLOWER, PNEUMATIC BLOWER",
+        "BLADE MATERIAL": "STAINLESS STEEL",
+        "ELECTRIC CURRENT TYPE": "AC",
+        "SPEED": "2800 RPM ,1400 RPM"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "31",
+      "title": "SS Material Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "SS Material Blower",
+      "mainImage": "assets/images/Products/Ss material blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/Ss material blower.jpg",
+        "assets/images/Products/Ss material blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "MATERIAL": "STAINLESS STEEL",
+        "POWER": "3 HP",
+        "ELECTRIC CURRENT TYPE": "DC",
+        "MOUNTING": "DUCT MOUNTED FAN",
+        "COUNTRY OF ORIGIN": "MADE IN INDIA"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "32",
+      "title": "SS Material Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "SS Material Blower",
+      "mainImage": "assets/images/Products/Ss material blower.mp4",
+      "galleryImages": [
+        "assets/images/Products/Ss material blower.mp4",
+        "assets/images/Products/Ss material blower.mp4"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "MATERIAL": "STAINLESS STEEL",
+        "POWER": "3 HP",
+        "ELECTRIC CURRENT TYPE": "DC",
+        "MOUNTING": "DUCT MOUNTED FAN",
+        "COUNTRY OF ORIGIN": "MADE IN INDIA"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    },{
+      "id": "33",
+      "title": "V- Belt Drive. I D Fan Blower",
+      "category": "Industrial Blowers",
+      "breadcrumb": "V- Belt Drive. I D Fan Blower",
+      "mainImage": "assets/images/Products/V- belt Drive. I D fan Blower.jpg",
+      "galleryImages": [
+        "assets/images/Products/V- belt Drive. I D fan Blower.jpg",
+        "assets/images/Products/V- belt Drive. I D fan Blower.jpg"
+      ],
+      "description": "High-performance forced draft blower designed for industrial applications requiring positive air pressure. Ideal for combustion and ventilation systems.",
+      "specifications": {
+        "FAN SPEED": "960 RPM",
+        "SIZE": "10 INCH",
+        "POWER": "NA",
+        "USAGE/APPLICATION": "INDUSTRIAL",
+        "AIRFLOW CAPACITY": "500-1000 M3/H",
+        "BLADE MATERIAL": "SS",
+        "PRODUCT TYPE": "DUCT MOUNTED FAN",
+        "BLOWER TYPE": "CENTRIFUGAL BLOWER",
+        "SPEED (RPM)": "1440 RPM"
+      },
+      "features": [
+        "High pressure capability",
+        "Industrial-grade construction",
+        "Temperature resistant",
+        "Heavy-duty bearings",
+        "Advanced motor protection"
+      ]
+    }
+  ]
+} 

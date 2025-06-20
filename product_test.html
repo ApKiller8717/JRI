@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product Page with Filters</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .product-card {
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 15px;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+    .product-card:hover {
+      transform: scale(1.02);
+    }
+    .product-img {
+      height: 150px;
+      object-fit: contain;
+    }
+    .modal-img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+    .modal-fullscreen .modal-dialog {
+      max-width: 100%;
+      margin: 0;
+    }
+    .filter-btn.active {
+      background-color: #0d6efd;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container py-5">
+  <h2 class="mb-4 text-center">Our Products</h2>
+  <div class="text-center mb-4">
+    <button class="btn btn-outline-primary me-2 filter-btn active" data-filter="all">All</button>
+    <button class="btn btn-outline-primary me-2 filter-btn" data-filter="electronics">Electronics</button>
+    <button class="btn btn-outline-primary me-2 filter-btn" data-filter="fashion">Fashion</button>
+    <button class="btn btn-outline-primary me-2 filter-btn" data-filter="toys">Toys</button>
+    <button class="btn btn-outline-primary filter-btn" data-filter="home">Home</button>
+  </div>
+  <div class="row" id="productList">
+    <!-- Electronics -->
+    <div class="col-md-3 mb-4 product-item" data-category="electronics">
+      <div class="product-card text-center" data-bs-toggle="modal" data-bs-target="#modal1">
+        <img src="./images/images/sunglasses/sunglasses_1.png" class="product-img mb-2" alt="Smartphone">
+        <h5>Smartphone</h5>
+        <p>Electronics</p>
+      </div>
+    </div>
+
+    <!-- Fashion -->
+    <div class="col-md-3 mb-4 product-item" data-category="fashion">
+      <div class="product-card text-center" data-bs-toggle="modal" data-bs-target="#modal2">
+        <img src="./images/images/sunglasses/sunglasses_1.png" class="product-img mb-2" alt="Sunglasses">
+        <h5>Sunglasses</h5>
+        <p>Fashion</p>
+      </div>
+    </div>
+
+    <!-- Toys -->
+    <div class="col-md-3 mb-4 product-item" data-category="toys">
+      <div class="product-card text-center" data-bs-toggle="modal" data-bs-target="#modal3">
+        <img src="./images/images/sunglasses/sunglasses_1.png" class="product-img mb-2" alt="Toy Car">
+        <h5>Toy Car</h5>
+        <p>Toys</p>
+      </div>
+    </div>
+
+    <!-- Home -->
+    <div class="col-md-3 mb-4 product-item" data-category="home">
+      <div class="product-card text-center" data-bs-toggle="modal" data-bs-target="#modal4">
+        <img src="./images/images/sunglasses/sunglasses_1.png" class="product-img mb-2" alt="Vacuum Cleaner">
+        <h5>Vacuum Cleaner</h5>
+        <p>Home</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Fullscreen Modals -->
+<div class="modal fade modal-fullscreen" id="modal1" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content p-4">
+      <div class="modal-header border-0">
+        <h4 class="modal-title">Smartphone</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-4">
+          <div class="col-md-6 text-center">
+            <img src="./images/images/sunglasses/sunglasses_1.png" class="modal-img rounded" alt="Smartphone">
+          </div>
+          <div class="col-md-6">
+            <p>Experience seamless performance and high-resolution photography in one sleek device.</p>
+            <div class="table-responsive">
+              <table class="table table-bordered">
+                <tr><th>Brand</th><td>XYZ</td></tr>
+                <tr><th>Display</th><td>6.5" AMOLED</td></tr>
+                <tr><th>Processor</th><td>Octa-core 2.2GHz</td></tr>
+                <tr><th>RAM</th><td>8 GB</td></tr>
+                <tr><th>Storage</th><td>128 GB</td></tr>
+                <tr><th>Battery</th><td>4500 mAh</td></tr>
+                <tr><th>Camera</th><td>64MP + 12MP</td></tr>
+                <tr><th>OS</th><td>Android 13</td></tr>
+                <tr><th>Price</th><td>$299</td></tr>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade modal-fullscreen" id="modal2" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content p-4">
+      <div class="modal-header border-0">
+        <h4 class="modal-title">Sunglasses</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-4">
+          <div class="col-md-6 text-center">
+            <img src="./images/images/sunglasses/sunglasses_1.png" class="modal-img rounded" alt="Sunglasses">
+          </div>
+          <div class="col-md-6">
+            <p>Stylish polarized sunglasses for everyday wear and UV protection.</p>
+            <div class="table-responsive">
+              <table class="table table-bordered">
+                <tr><th>Brand</th><td>SunStyle</td></tr>
+                <tr><th>Frame</th><td>Plastic</td></tr>
+                <tr><th>Lens</th><td>Polarized</td></tr>
+                <tr><th>Color</th><td>Black</td></tr>
+                <tr><th>UV Protection</th><td>100%</td></tr>
+                <tr><th>Weight</th><td>120g</td></tr>
+                <tr><th>Gender</th><td>Unisex</td></tr>
+                <tr><th>Shape</th><td>Round</td></tr>
+                <tr><th>Price</th><td>$49</td></tr>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade modal-fullscreen" id="modal3" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content p-4">
+      <div class="modal-header border-0">
+        <h4 class="modal-title">Toy Car</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-4">
+          <div class="col-md-6 text-center">
+            <img src="./images/images/sunglasses/sunglasses_1.png" class="modal-img rounded" alt="Toy Car">
+          </div>
+          <div class="col-md-6">
+            <p>Battery-operated fun car for kids with lights and sound effects.</p>
+            <div class="table-responsive">
+              <table class="table table-bordered">
+                <tr><th>Brand</th><td>PlayZone</td></tr>
+                <tr><th>Age Group</th><td>3+ Years</td></tr>
+                <tr><th>Material</th><td>ABS Plastic</td></tr>
+                <tr><th>Battery</th><td>AA x 2</td></tr>
+                <tr><th>Sound</th><td>Yes</td></tr>
+                <tr><th>Lights</th><td>Yes</td></tr>
+                <tr><th>Remote</th><td>No</td></tr>
+                <tr><th>Size</th><td>15cm x 8cm</td></tr>
+                <tr><th>Price</th><td>$19</td></tr>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade modal-fullscreen" id="modal4" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content p-4">
+      <div class="modal-header border-0">
+        <h4 class="modal-title">Vacuum Cleaner</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-4">
+          <div class="col-md-6 text-center">
+            <img src="./images/images/sunglasses/sunglasses_1.png" class="modal-img rounded" alt="Vacuum Cleaner">
+          </div>
+          <div class="col-md-6">
+            <p>High-suction vacuum cleaner ideal for carpets and hard floors.</p>
+            <div class="table-responsive">
+              <table class="table table-bordered">
+                <tr><th>Brand</th><td>CleanTech</td></tr>
+                <tr><th>Power</th><td>1200W</td></tr>
+                <tr><th>Type</th><td>Bagless</td></tr>
+                <tr><th>Capacity</th><td>2L</td></tr>
+                <tr><th>Cord</th><td>5m</td></tr>
+                <tr><th>Weight</th><td>4.2kg</td></tr>
+                <tr><th>Filter</th><td>HEPA</td></tr>
+                <tr><th>Noise</th><td>72 dB</td></tr>
+                <tr><th>Price</th><td>$109</td></tr>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+  const filterButtons = document.querySelectorAll('.filter-btn');
+  const productItems = document.querySelectorAll('.product-item');
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      filterButtons.forEach(btn => btn.classList.remove('active'));
+      button.classList.add('active');
+
+      const filter = button.getAttribute('data-filter');
+
+      productItems.forEach(item => {
+        if (filter === 'all' || item.dataset.category === filter) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
+</body>
+</html>
